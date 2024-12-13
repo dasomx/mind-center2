@@ -1,3 +1,12 @@
+# Mind Center
+
+## About this project
+
+Mind Center is dedicated to providing support and vocational training to individuals affected by the traumatic events in the Jaranwala region of Pakistan. In August 2023, a fire caused significant damage to the local church and its congregation. In response, various organizations, including a team from Korea certified by the UN for trauma treatment methods, are offering their assistance.
+
+Our organization operates a trauma center and provides essential vocational training to help individuals rebuild their lives. In collaboration with the Future Talent Training Center, we are planning to conduct a comprehensive computer training course. As an affiliate of a university, we have been preparing for this cooperation to ensure the highest quality of training and support.
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
